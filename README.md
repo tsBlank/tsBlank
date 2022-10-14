@@ -15,11 +15,11 @@
 
 + ⛏ Studying how to use git properly
 + 🎭 Trying to improve my skills in CSS
-+ ♟Learning about units-tests and integrations-tests
++ ♟ Learning about units-tests and integrations-tests
 
 **My passions**
 
 + 🎵 I like to listen chill music
 + 🏋️‍♀️ Doing some gym
 + 📕 Reading some book (in english)
-+ 👀coding (while listening lo-fi)
++ 👀 coding (while listening lo-fi)
