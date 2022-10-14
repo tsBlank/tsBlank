@@ -22,3 +22,4 @@
 + 🎵 I like to listen chill music
 + 🏋️‍♀️ Doing some gym
 + 📕 Reading some book (in english)
++ 👀coding (while listening lo-fi)
